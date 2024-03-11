@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name niche65_mk2_left-rescue)(type Legacy)(uri ${KIPRJMOD}/niche65_mk2_left-rescue.lib)(options "")(descr ""))
+)
